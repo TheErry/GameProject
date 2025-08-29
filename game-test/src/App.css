@@ -1,0 +1,19 @@
+#root {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.game-area {
+  width: 1200px;
+  height: 700px;
+  border: 1px solid black;
+  position: relative;
+  overflow: hidden;
+  user-select: none;
+
+}
+
+
+
